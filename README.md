@@ -13,7 +13,7 @@ Os dados utilizados para esta análise foram retirados de arquivos CSV hospedado
 
 **Bibliotecas utilizadas**: 
 - `pandas` (para manipulação e análise de dados);
-- `matplotlib` e `seaborn` (para visualizações gráficas);
+- `matplotlib.pyplot` (para criação de gráficos e visualizações).
   
 ## Como Rodar o Projeto
 
