@@ -14,7 +14,7 @@ Os dados utilizados para esta análise foram retirados de arquivos CSV hospedado
 **Bibliotecas utilizadas**: 
 - `pandas` (para manipulação e análise de dados);
 - `matplotlib` e `seaborn` (para visualizações gráficas);
-- 
+  
 ## Como Rodar o Projeto
 
 Para rodar a análise, basta abrir o notebook [Projeto_Analise_de_lojas_alura.ipynb] no Google Colab.
